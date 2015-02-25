@@ -1,0 +1,82 @@
+							/**********************************************************
+												CSS DESKTOP + TAB
+							**********************************************************/
+
+/*********************************************GLOBAL*********************************************/
+
+html {
+	font-size: 100%;
+}
+
+p, li {
+	font-family: 'walkway_semiboldregular';
+	color: white;
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto';
+	font-weight: 700;
+	color: white;
+}
+
+li {
+	display: inline-block;
+}
+
+body {
+	margin: 0px;
+	background: url(../img/Fond.png) no-repeat;
+	background-size: 100vw;
+}
+
+div, p {
+	margin: 0px;
+}
+
+/*********************************************LANDING*********************************************/
+
+.landing {
+	height: 100vh;
+	width: 100%;
+}
+
+.logo {
+	padding-top: 25vh;
+	padding-left: 7vw;
+	width: 17%;
+}
+
+.title {
+	padding-left: 3vw;
+	width: 300px;
+}
+
+.title h1, h2 {
+	text-align: center;
+}
+
+.title h1 {
+	font-size: 2.5rem;
+	font-weight: 100;
+	line-height: 5px;
+}
+
+.title h2 {
+	font-size: 1.45rem;
+}
+
+/*********************************************BODY*********************************************/
+.content {
+	height: 200vh;
+	width: 100vw;
+}
+
+.content img {
+}
+
+/*SECTION 1*/
+
+.section1 {
+	height: 100vh;
+	width: 100vw;
+}
